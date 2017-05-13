@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#053B9B</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="facebook">#3A5BA2</color>
+    <color name="facebook_shadow">#039BE5</color>
+
+    <color name="whatsapp">#43A047</color>
+    <color name="whatsapp_shadow">#4CAF50</color>
+
+    <color name="gmail">#dc4e41</color>
+
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="orange">#FF8F00</color>
+</resources>
